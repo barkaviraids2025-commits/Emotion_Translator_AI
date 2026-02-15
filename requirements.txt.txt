@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-requests
-=======
-requests
->>>>>>> 6a30cd9e7c16552fa17b517bc97f958e9deba6f7
