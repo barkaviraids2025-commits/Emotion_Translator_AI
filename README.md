@@ -31,7 +31,7 @@ Emotion-Translator-AI/
 ________________________________________
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/Emotion-Translator-AI.git
+git clone https://github.com/barkaviraids2025-commits/Emotion-Translator-AI.git
 cd Emotion-Translator-AI
 2️⃣ Install dependencies
 pip install -r requirements.txt
